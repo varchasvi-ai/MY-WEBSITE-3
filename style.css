@@ -1,0 +1,259 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: white;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+#menu {
+    background-color: #B4E9E2;
+    text-align: center;
+    position: fixed;
+    width: 1424px;
+}
+
+ul {
+    display: inline-flex;
+    list-style: none;
+    color: black;
+}
+
+li {
+    width: 120px;
+    margin: 15px;
+    padding: 15px;
+    font-size: 25px;
+    font-family: 'Redressed', cursive;
+}
+
+#menu ul li a {
+    text-decoration: none;
+    color: black;
+}
+
+li:hover {
+    background-color: 9DE3D9;
+}
+
+#pp {
+    width: 250px;
+    height: 350px;
+    border-radius: 10px;
+    transition: transform .2s;
+}
+
+#pp:hover {
+    transform: scale(1.5);
+}
+
+h1 {
+    color: darkturquoise;
+    font-size: 40px;
+    transition: transform .5s;
+
+}
+
+h1:hover {
+    transform: rotate(360deg);
+}
+
+h2 {
+    font-size: 45px;
+    text-shadow: 2px 2px turquoise;
+}
+
+p {
+    color: darkturquoise;
+    font-size: 25px;
+    width: 900px;
+    height: 150px;
+    text-align: center;
+    margin-left: 255px;
+    transition: transform .2s;
+    border-width: medium;
+    border-color: black;
+    border-style: solid;
+    padding: 10px;
+    font-family: 'Lobster', cursive;
+
+}
+
+
+p:hover {
+    transform: scale(1.5);
+    background-color: black;
+}
+
+#imgfav {
+    width: 150px;
+    height: 100px;
+}
+
+
+.fav {
+    width: 200px;
+    height: 175px;
+    background-color: #B4E9E2;
+    box-shadow: 5px 5px grey;
+    transition: transform .2s;
+    float: left;
+    margin-left: 90px;
+}
+
+.bla {
+    font-size: 18px;
+    font-family: 'lobster', cursive;
+}
+
+h5 {
+    font-family: 'Lobster', cursive;
+    text-shadow: 2px 2px turquoise;
+    font-size: 25px;
+}
+
+h7 {
+    font-size: 50px;
+    font-family: 'lobster', cursive;
+    text-shadow: 2px 2px 5px turquoise;
+}
+
+
+.fav:hover {
+    transform: scale(2.80);
+}
+
+#tater {
+    margin-top: 200px;
+}
+
+.balfu {
+    width: 350px;
+    height: 350px;
+}
+
+h8 {
+    font-family: 'lobster', cursive;
+    font-size: 30px;
+    text-shadow: 2px 2px 5px aquamarine;
+}
+
+
+img {
+    width: 500px;
+}
+
+
+#favs {
+    margin-left: 90px;
+    width: 1250px;
+    height: 450px;
+    background-image: url(https://i.ytimg.com/vi/jpMjccel3sk/maxresdefault.jpg);
+    align-items: center;
+}
+
+
+
+#Blavla {
+    width: 300px;
+    height: 300px;  
+    transition: transform .2s;
+}
+
+#Blavla:hover {
+    transform: scale(1.1);
+}
+
+
+.gallerty {
+    width: 150px;
+    height: 250px;
+    transition: transform .2s;
+    border-radius: 10px;
+    
+}
+
+.tt {
+    width: 350px;
+    height: 600px;
+    background-color: black;
+    float: left;
+    margin-left: 100px;
+}
+
+h13 {
+    color: paleturquoise; 
+    font-size: 30px;
+    font-family: 'lobster', cursive;
+}
+
+h3 {
+    font-family: 'lobster', cursive;
+    text-shadow: 2px 2px 5px aquamarine;
+    font-size: 40px;
+}
+
+.line {
+    width: 300px;
+    height: 10px;
+    background-color: paleturquoise;
+    
+}
+
+h14 {
+    color: paleturquoise;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 20px;
+}
+
+
+.loft {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    margin-top: 20px;
+}
+
+i {
+    color: black;
+}
+
+
+span {
+    text-decoration: none;
+    font-size: 30px;
+    color: black;
+    font-family: 'lobster', cursive;
+}
+
+span:hover {
+    text-shadow: 2px 2px 5px aquamarine;
+}
+
+h15 {
+    font-size: 30px;
+    font-family: 'lobster', cursive;
+    text-shadow: 2px 2px 5px lightpink;
+}
+
+#trese {
+    margin-right: 1000px;
+}
+
+.troo {
+    width: 250px;
+    margin-left: 55px;
+}
+
+.gallerty:hover {
+    transform: scale(2.80);
+}
+
+
+h9 {
+    font-size: 40px;
+    font-family: 'lobster', cursive;
+}
+
